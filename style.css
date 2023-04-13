@@ -1,0 +1,67 @@
+* {
+  margin: 0;
+  padding: 0;
+  /* This sets padding and margin for all elements to 0 so have to add as required */
+}
+
+body {
+  font-family: Outfit, "sans-serif";
+}
+
+.container {
+  position: relative;
+  /* auto for the left and right (margin below) forces it to calculate same margin for left and right resulting in this element being centered in the body which was already the full width of the window */
+  margin: 0 auto;
+  width: 1440px;
+  height: 800px;
+  background-color: hsl(212, 45%, 89%);
+}
+
+.card {
+  position: absolute;
+  top: 152px;
+  left: 560px;
+  background-color: hsl(0, 0%, 100%);
+  width: 320px;
+  border-radius: 20px;
+}
+
+.text {
+  margin-left: 16px;
+  margin-right: 16px;
+  margin-top: 23px;
+  margin-bottom: 40px;
+  text-align: center;
+}
+
+h2 {
+  font-weight: 700;
+  font-size: 22px;
+  /* line-height: 27.72px; */
+  margin-bottom: 16px;
+  padding-left: 6px;
+  padding-right: 6px;
+}
+
+p {
+  font-weight: 400;
+  font-size: 15px;
+  margin-left: 16px;
+  margin-right: 16px;
+}
+
+img {
+  margin-left: 19px;
+  margin-top: 13px;
+  border-radius: 10px;
+}
+
+/* <!-- Feel free to remove these styles or customise in your own stylesheet 👍 -->  */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
