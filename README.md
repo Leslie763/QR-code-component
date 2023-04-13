@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/simple-project-using-just-html-and-css-TzH4kJlTcz)
+- Live Site URL: [Add live site URL here](https://leslie763.github.io/QR-code-component/)
 
 ## My process
 
@@ -47,5 +47,3 @@ Going to move on to Flexbox and CSS Grid.
 
 - Frontend Mentor - [@yLeslie763](https://www.frontendmentor.io/profile/Leslie763)
 - Twitter - [@Leslie_763](https://www.twitter.com/@Leslie_763)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
